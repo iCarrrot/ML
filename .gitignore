@@ -108,3 +108,8 @@ venv.bak/
 *.npz
 untitled*
 .idea/
+
+kaggle*
+data/
+.gitsecret/keys/random_seed
+!*.secret
